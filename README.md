@@ -60,13 +60,12 @@ docker build --platform linux/amd64 -t pdf-outline-extractor:task1a .
 
 ### ▶️ Run Docker Container
 
-```bash
-docker run --rm \
--v %cd%/input_pdfs:/app/input_pdfs \
--v %cd%/input_labels:/app/input_labels \
--v %cd%/output_json:/app/output_json \
+docker run --rm ^
+-v "%cd%/input_pdfs":/app/input_pdfs ^
+-v "%cd%/input_labels":/app/input_labels ^
+-v "%cd%/output_json":/app/output_json ^
 pdf-outline-extractor
-```
+
 
 > Note: On Linux/macOS, replace `%cd%` with `$(pwd)`.
 
