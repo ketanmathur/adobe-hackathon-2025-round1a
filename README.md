@@ -54,7 +54,8 @@ pdf_outline_extractor/
 ```bash
 cd pdf_outline_extractor
 
-docker build --platform=linux/amd64 -t pdf-outline-extractor .
+docker build --platform linux/amd64 -t pdf-outline-extractor:task1a .
+
 ```
 
 ### ▶️ Run Docker Container
