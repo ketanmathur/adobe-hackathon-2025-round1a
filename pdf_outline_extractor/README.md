@@ -130,8 +130,8 @@ Ketan Mathur, Apoorv Sharma
 
 ## 📬 Contact
 
-Email: \[your-email]
-GitHub Repo: \[repo-link]
+Email: mathurketan3@gmail.com
+
 
 ---
 
