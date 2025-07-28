@@ -128,10 +128,3 @@ numpy
 Ketan Mathur, Apoorv Sharma
 
 ---
-
-## 📬 Contact
-
-Email: mathurketan3@gmail.com
-
-
----
