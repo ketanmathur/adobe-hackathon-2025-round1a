@@ -89,12 +89,13 @@ pdf-outline-extractor
 Example of `requirements.txt` used:
 
 ```
-fitz
-pymupdf
-scikit-learn
-xgboost==2.0.3
-pandas
-numpy
+pymupdf==1.23.7
+pdfplumber==0.10.2
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.1.3
+xgboost==1.6.2
+
 ```
 
 > Note: Installed via `pip install -r requirements.txt` during Docker build.
