@@ -78,12 +78,6 @@ pdf-outline-extractor
 
 ---
 
-## 🧪 Testing Checklist
-
-*
-
----
-
 ## 🧾 Requirements
 
 Example of `requirements.txt` used:
